@@ -1,16 +1,10 @@
 # eleraky
 
-A new Flutter project.
+Financial app for managing customers and suppliers debts made with firestore database .
 
-## Getting Started
+Business owner can -->
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Create Customer/Supplier and save all his information
+Create receipt for customer
+Record a payment from customer or to Supplier
+Edit receipts and payments
